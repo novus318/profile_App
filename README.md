@@ -1,9 +1,7 @@
 # profile_App
 
 
-# Project Name
-
-Welcome to the Project Name repository!
+Welcome to the profile_App repository!
 
 ## Getting Started
 
